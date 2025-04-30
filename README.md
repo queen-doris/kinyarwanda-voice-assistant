@@ -18,16 +18,16 @@ HuggingFace Transformers
 Whisper model: benax-rw/KinyaWhisper
 
 🚀 How to Use It
-1. Grab the code
-git clone https://github.com/queen-doris/kinyarwanda-voice-assistant.git
+**1. Grab the code**/n
+git clone https://github.com/queen-doris/kinyarwanda-voice-assistant.git/n
 cd kinyarwanda-voice-assistant
 
-3. Install the magic tools
+**2. Install the magic tools**/n
 pip install -r requirements.txt
 
-4. Make it talk!
-cd app
-python assistant.py
+**3. Make it talk!**/n
+cd app/n
+python assistant.py/n
 
 ⚠️ Heads up! You’ll need a good internet connection — the model is pretty powerful (and a bit heavy).
 
