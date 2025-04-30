@@ -1,43 +1,36 @@
-# 🗣️ Kinyarwanda Voice Assistant 🇷🇼
+🗣️ Kinyarwanda Voice Assistant 🇷🇼
+Talk to your computer in Kinyarwanda — it listens, understands, and writes it down for you!
 
-This project is a voice assistant for the Kinyarwanda language using OpenAI's Whisper model. It allows users to transcribe audio into text, making speech-to-text accessible for Kinyarwanda speakers.
+✨ What It Does
+🎧 Listens to your Kinyarwanda audio
 
-## 📌 Features
+🧠 Converts it into text using the awesome Whisper model
 
-- 🔊 Load and process audio files
-- 🧠 Transcribe Kinyarwanda speech using a fine-tuned Whisper model
-- 📝 Simple, lightweight, and easy to extend
+💡 Super simple and easy to build on!
 
-## 🛠️ Tech Stack
+🧰 Built With
+Python 3.12+
 
-- Python 3.12+
-- PyTorch
-- torchaudio
-- HuggingFace Transformers
-- Whisper model (`benax-rw/KinyaWhisper`)
+PyTorch + torchaudio
 
-## 🚀 Getting Started
+HuggingFace Transformers
 
-### 1. Clone the repo
+Whisper model: benax-rw/KinyaWhisper
 
-```bash
+🚀 How to Use It
+1. Grab the code
 git clone https://github.com/your-username/kinyarwanda-voice-assistant.git
 cd kinyarwanda-voice-assistant
-```
-### 2. Install the dependencies 
 
-```bash
+2. Install the magic tools
 pip install -r requirements.txt
-```
-### 3. Run the application
 
-```bash
+3. Make it talk!
 cd app
 python assistant.py
-```
-### 👉🏾 Please make sure you are connected to a stable internet as the model requires heavy dependencies.
 
-## Credits 
+⚠️ Heads up! You’ll need a good internet connection — the model is pretty powerful (and a bit heavy).
 
-- Model by https://github.com/benax-rw
+🙌 Shoutout
+Big thanks to benax-rw for the KinyaWhisper model!
 
