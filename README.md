@@ -19,13 +19,13 @@ Whisper model: benax-rw/KinyaWhisper
 
 🚀 How to Use It
 1. Grab the code
-git clone https://github.com/your-username/kinyarwanda-voice-assistant.git
+git clone https://github.com/queen-doris/kinyarwanda-voice-assistant.git
 cd kinyarwanda-voice-assistant
 
-2. Install the magic tools
+3. Install the magic tools
 pip install -r requirements.txt
 
-3. Make it talk!
+4. Make it talk!
 cd app
 python assistant.py
 
