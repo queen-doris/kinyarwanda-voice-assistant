@@ -21,7 +21,7 @@ Whisper model: benax-rw/KinyaWhisper
 
 **1. Grab the code**
 
-git clone https://github.com/your-username/kinyarwanda-voice-assistant.git
+git clone https://github.com/queen-doris/kinyarwanda-voice-assistant.git
 cd kinyarwanda-voice-assistant
 
 **2. Install the magic tools**
